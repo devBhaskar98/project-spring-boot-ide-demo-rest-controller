@@ -16,7 +16,7 @@ import lombok.Data;
 
 @RestController
 @Data
-@RequestMapping("/api")
+@RequestMapping("/apip")
 public class Person {
 
 	@Autowired
