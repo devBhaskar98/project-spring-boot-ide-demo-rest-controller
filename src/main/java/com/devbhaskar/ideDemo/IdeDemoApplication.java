@@ -1,0 +1,13 @@
+package com.devbhaskar.ideDemo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class IdeDemoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(IdeDemoApplication.class, args);
+	}
+
+}
